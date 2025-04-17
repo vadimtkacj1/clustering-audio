@@ -1,0 +1,34 @@
+{
+  "playlists": [
+    {
+      "id": 0,
+      "songs": [
+        "53c96f2d-18e4-4226-9efc-a6a92815faac",
+        "57f508ff-f78a-42cf-b5f4-d2f15bd53b78",
+        "6577d5cd-87cc-4cc3-af04-640960c36168"
+      ]
+    },
+    {
+      "id": 1,
+      "songs": [
+        "456a0433-9e97-400c-987c-f633a8a8f3ff",
+        "80db79fa-f030-4c7b-9360-3edaf0e6c1bd",
+        "897cfb82-42ed-4304-be7a-07dd38d2b1ea",
+        "9eef63e1-0b16-4f8f-95d4-6ca93f2db91e",
+        "9f9236d2-54dd-4d16-b551-f2a562a3299c",
+        "c4068c84-2903-411b-a50d-c2b2de5d2a49"
+      ]
+    },
+    {
+      "id": 2,
+      "songs": [
+        "0fa4cfa4-14d0-4850-88b0-8d21382edadb",
+        "356a199c-513f-4656-a0b0-f12e2610bfee",
+        "93e444d8-69d3-47b9-b00b-c83e3f6af448",
+        "a008b71f-8d0b-4843-acfd-1dd8443dcfa8",
+        "a703d5a3-db4d-4891-aee5-41af16a20783",
+        "f2a71b03-8a8a-4824-8b9b-27032b10b15f"
+      ]
+    }
+  ]
+}
